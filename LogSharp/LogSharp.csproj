@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Example\CustomLLogLevels.cs" />
+    <Compile Include="Example\SimpleExample.cs" />
     <Compile Include="LoggerFactory.cs" />
     <Compile Include="File\FileLogger.cs" />
     <Compile Include="File\FileLogInstanceWrapper.cs" />
