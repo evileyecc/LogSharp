@@ -2,7 +2,7 @@
 A simple logger that can be copied into a project. that needs some basic log support.
 
 By default, logs are written to a .txt file in \\Logs as LogEntry-Date.txt
-
+I was inspired by: https://github.com/dnewcome/flog 
 This is the included example.
 
 
